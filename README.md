@@ -10,4 +10,4 @@ Acts as an API endpoint and is built in Node.js. Can be ran as a standalone serv
 ## Frontend 
 The frontend application built on Next.js. **It requires the Backend application to be running, as it is used as an API endpoint**.
 
-*Instructions are inside backend/README.md*
+*Instructions are inside frontend/README.md*
